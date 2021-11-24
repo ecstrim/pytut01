@@ -1,7 +1,4 @@
 hello world
-<<<<<<< HEAD
 
 ciao mondo
-=======
 second line
->>>>>>> fdcf6ef1f9e776fd4d85d57a7a188e455b0e7156
